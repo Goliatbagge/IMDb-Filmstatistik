@@ -1,0 +1,5 @@
+{
+  "name": "IMDb Filmstatistik",
+  "description": "Ladda upp en CSV-fil från IMDb för att visualisera statistik över dina filmer. Se antalet filmer du har betygsatt per år i ett snyggt stapeldiagram.",
+  "requestFramePermissions": []
+}
